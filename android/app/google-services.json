@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742570536743",
+    "firebase_url": "https://pet-disease-default-rtdb.firebaseio.com",
+    "project_id": "pet-disease",
+    "storage_bucket": "pet-disease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742570536743:android:503612b4cbe0212e8bc302",
+        "android_client_info": {
+          "package_name": "com.example.pet_desease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjU2CdtVJky4G8zLtgpWBWarPd3iQIWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
